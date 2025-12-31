@@ -17,7 +17,7 @@ It is designed for security researchers, penetration testers, and bug bounty hun
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eyasuasegid/param-hunter-pro.git
+   git clone https://github.com/eyasuasegid/ParamHunter-Pro.git
    cd param-hunter-pro
    ```
 
